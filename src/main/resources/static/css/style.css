@@ -1,0 +1,565 @@
+.navbar-default .navbar-nav > .active > a.selected-navi, .navbar-default .navbar-nav > .active > a.selected-navi:focus, .navbar-default .navbar-nav > .active > a.selected-navi:hover {
+    background-color: orange;
+    background-image: -webkit-linear-gradient(top, orange 0, gold 100%);
+}
+
+.navbar-brand {
+    background: url("/img/cucule.gif") no-repeat left center;
+    background-size: contain;
+    height: 50px;
+    width: 250px;
+}
+
+.navbar-style {
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.95, #d89503), color-stop(0.04, #ebd798));
+    background: -webkit-linear-gradient(top, #ebd798 4%, #d89503 95%);
+    background: -moz-linear-gradient(top, #ebd798 4%, #d89503 95%);
+    background: -o-linear-gradient(top, #ebd798 4%, #d89503 95%);
+    background: -ms-linear-gradient(top, #ebd798 4%, #d89503 95%);
+    background: linear-gradient(to bottom, #ebd798 4%, #d89503 95%);
+}
+
+.navbar-default .navbar-nav > li > a.navbar-a {
+    color: #ffffff;
+    font-size: 12px;
+    border-left: 0.1px solid peru;
+    border-bottom: 0.1px solid peru;
+}
+
+.navbar-default .navbar-nav > li > a.navbar-a-last {
+    border-right: 0.1px solid peru;
+}
+
+.navbar-default .navbar-nav > li > a.navbar-a:hover {
+    color: lavender;
+    background-color: #d89503;
+    font-size: 12px;
+}
+
+#error-message {
+    padding: 15px;
+    margin: 15px 0px 15px 0px;;
+    background-color: #cea2a3;
+    color: maroon;
+    font-size: 15px;
+}
+
+.Center {
+    text-align: center;
+}
+
+.Font8 {
+    font-size: 10px;
+}
+
+.Sun {
+    background-color: #bf8486;
+    color: white;
+}
+
+.Mon {
+    background-color: #7a8bab;
+    color: white;
+}
+
+.Tue {
+    background-color: #7a8bab;
+    color: white;
+}
+
+.Wed {
+    background-color: #7a8bab;
+    color: white;
+}
+
+.Thu {
+    background-color: #7a8bab;
+    color: white;
+}
+
+.Fri {
+    background-color: #7a8bab;
+    color: white;
+}
+
+.Sat {
+    background-color: #6d93bb;
+    color: white;
+}
+
+th.hover {
+    background: #96a4bc;
+}
+
+th.Sat.hover {
+    background: #8ba9c9;
+}
+
+th.Sun.hover {
+    background: #cea2a3;
+}
+
+td.hover {
+    background: #f0f1f4;
+}
+
+#login {
+    background-color: bisque;
+    padding: 15px 15px 30px 15px;
+}
+
+#required {
+    padding-left: 3px;
+    color: #ff0000;
+    font-weight: normal;
+    font-size: 90%;
+}
+
+input.none {
+    border: none;
+    background: none;
+    -webkit-appearance: none;
+
+}
+
+.Width10 {
+    width: 10px;
+}
+
+.Width20 {
+    width: 20px;
+}
+
+.Width30 {
+    width: 30px;
+}
+
+.Width40 {
+    width: 40px;
+}
+
+.Width50 {
+    width: 50px;
+}
+
+.Width60 {
+    width: 60px;
+}
+
+.Width70 {
+    width: 70px;
+}
+
+.Width80 {
+    width: 80px;
+}
+
+.Width90 {
+    width: 90px;
+}
+
+.Width100 {
+    width: 100px;
+}
+
+.Width110 {
+    width: 110px;
+}
+
+.Width120 {
+    width: 120px;
+}
+
+.Width130 {
+    width: 130px;
+}
+
+.Width140 {
+    width: 140px;
+}
+
+.Width150 {
+    width: 150px;
+}
+
+.Width160 {
+    width: 160px;
+}
+
+.Width170 {
+    width: 170px;
+}
+
+.Width180 {
+    width: 180px;
+}
+
+.Width190 {
+    width: 190px;
+}
+
+.Width210 {
+    width: 210px;
+}
+
+.Width220 {
+    width: 220px;
+}
+
+.Width230 {
+    width: 230px;
+}
+
+.Width240 {
+    width: 240px;
+}
+
+.Width250 {
+    width: 250px;
+}
+
+.Width260 {
+    width: 260px;
+}
+
+.Width270 {
+    width: 270px;
+}
+
+.Width280 {
+    width: 280px;
+}
+
+.Width290 {
+    width: 290px;
+}
+
+.Width300 {
+    width: 300px;
+}
+
+.Width800 {
+    width: 800px;
+}
+
+.Height10 {
+    height: 10px;
+}
+
+.Height20 {
+    height: 20px;
+}
+
+.Height30 {
+    height: 30px;
+}
+
+.Height40 {
+    height: 40px;
+}
+
+.Height50 {
+    height: 50px;
+}
+
+.Height60 {
+    height: 60px;
+}
+
+.Height70 {
+    height: 70px;
+}
+
+.Height80 {
+    height: 80px;
+}
+
+.Height90 {
+    height: 90px;
+}
+
+.Height100 {
+    height: 100px;
+}
+
+.Height110 {
+    height: 110px;
+}
+
+.Height120 {
+    height: 120px;
+}
+
+.Height130 {
+    height: 130px;
+}
+
+.Height140 {
+    height: 140px;
+}
+
+.Height150 {
+    height: 150px;
+}
+
+.Height160 {
+    height: 160px;
+}
+
+.Height170 {
+    height: 170px;
+}
+
+.Height180 {
+    height: 180px;
+}
+
+.Height190 {
+    height: 190px;
+}
+
+.Height210 {
+    height: 210px;
+}
+
+.Height220 {
+    height: 220px;
+}
+
+.Height230 {
+    height: 230px;
+}
+
+.Height240 {
+    height: 240px;
+}
+
+.Height250 {
+    height: 250px;
+}
+
+.Height260 {
+    height: 260px;
+}
+
+.Height270 {
+    height: 270px;
+}
+
+.Height280 {
+    height: 280px;
+}
+
+.Height290 {
+    height: 290px;
+}
+
+.Height300 {
+    height: 300px;
+}
+
+.Height800 {
+    height: 800px;
+}
+
+.Padding10 {
+    padding: 10px;
+}
+
+.Padding20 {
+    padding: 20px;
+}
+
+.Padding30 {
+    padding: 30px;
+}
+
+.Padding40 {
+    padding: 40px;
+}
+
+.Padding50 {
+    padding: 50px;
+}
+
+.Padding60 {
+    padding: 60px;
+}
+
+.Padding70 {
+    padding: 70px;
+}
+
+.Padding100 {
+    padding: 100px;
+}
+
+#schedule {
+}
+
+#schedule .clear {
+    clear: both;
+    height: 0;
+    line-height: 0;
+}
+
+#schedule .sc_wrapper {
+}
+
+#schedule .sc_menu {
+    width: 100%;
+    height: 26px;
+}
+
+#schedule .sc_menu .sc_header_cell {
+    float: left;
+}
+
+#schedule .sc_menu .sc_header {
+    float: left;
+    height: 26px;
+    position: relative;
+    overflow: hidden;
+}
+
+#schedule .sc_menu .sc_header .sc_time {
+    text-align: center;
+    border-left: solid 1px #FFF;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.95, #d89503), color-stop(0.04, #ebd798));
+    background: -webkit-linear-gradient(top, #ebc06c 5%, #d89503 95%);
+    background: -moz-linear-gradient(top, #ebc06c 5%, #d89503 95%);
+    background: -o-linear-gradient(top, #ebc06c 5%, #d89503 95%);
+    background: -ms-linear-gradient(top, #ebc06c 5%, #d89503 95%);
+    background: linear-gradient(to bottom, #ebc06c 5%, #d89503 95%);
+}
+
+#schedule .sc_menu .sc_header_cell,
+#schedule .sc_data {
+    float: left;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.95, #d89503), color-stop(0.04, #ebc06c));
+    background: -webkit-linear-gradient(top, #ebc06c 5%, #d89503 95%);
+    background: -moz-linear-gradient(top, #ebc06c 5%, #d89503 95%);
+    background: -o-linear-gradient(top, #ebc06c 5%, #d89503 95%);
+    background: -ms-linear-gradient(top, #ebc06c 5%, #d89503 95%);
+    background: linear-gradient(to bottom, #ebc06c 5%, #d89503 95%);
+    position: relative;
+}
+
+#schedule .sc_menu .sc_header_scroll,
+#schedule .sc_data .sc_data_scroll {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#schedule .sc_menu .sc_header_cell,
+#schedule .sc_header .sc_time,
+#schedule .sc_main_scroll .sc_time {
+    color: #FFFFFF;
+    padding: 4px 0;
+    line-height: 18px;
+    height: 26px;
+    display: block;
+}
+
+#schedule .sc_header .sc_time,
+#schedule .sc_main_scroll .sc_time {
+    float: left;
+}
+
+#schedule .sc_main_box,
+#schedule .sc_data {
+    max-height: 500px;
+    overflow: hidden;
+}
+
+#schedule .sc_main_box {
+    float: left;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+#schedule .sc_main_scroll {
+}
+
+#schedule .sc_main {
+    position: relative;
+}
+
+#schedule .timeline {
+    position: relative;
+}
+
+#schedule .sc_Bar {
+    position: absolute;
+    color: #666666;
+    background: #f8f0da;;;;
+    cursor: pointer;
+    z-index: 10;
+    box-shadow: 2px 2px 4px #333;
+    -moz-box-shadow: 2px 2px 4px #333;
+    -webkit-box-shadow: 2px 2px 4px #333;
+}
+
+#schedule .ui-draggable-dragging,
+#schedule .ui-resizeable {
+    z-index: 20;
+}
+
+#schedule .sc_Bar .head {
+    display: block;
+    padding: 6px 8px 0;
+    font-size: 12px;
+    height: 25px;
+    overflow: hidden;
+}
+
+#schedule .sc_Bar .text {
+    display: block;
+    padding: 5px 15px 0;
+    font-weight: bold;
+    height: 25px;
+    overflow: hidden;
+}
+
+#schedule .timeline,
+#schedule .sc_main .tb {
+    border-bottom: solid 2px #666;
+}
+
+#schedule .sc_data .timeline {
+    overflow: hidden;
+}
+
+#schedule .sc_data .timeline span {
+    padding: 10px;
+    display: block;
+}
+
+#schedule .sc_data .timeline span.photo {
+    float: left;
+    width: 36px;
+    height: 36px;
+    padding: 10px 0 10px 10px;
+}
+
+#schedule .sc_data .timeline span.title {
+    float: left;
+    padding: 10px 0 10px 10px;
+    width: 92px;
+}
+
+#schedule .sc_main_scroll .sc_main {
+}
+
+#schedule .sc_main_scroll .sc_main .tl {
+    float: left;
+    height: 100%;
+    border-right: solid 1px #CCC;
+}
+
+#schedule .sc_main_scroll .sc_main .tl:hover {
+    background: #F0F0F0;
+}
